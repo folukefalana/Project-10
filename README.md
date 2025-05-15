@@ -45,4 +45,5 @@ Power BI Desktop SQL for data extraction and transformation
 ### PROJECT STRUCTURE:
 - Data: Contains raw and cleaned data files. Scripts: Includes SQL scripts used for data extraction and transformation. Reports: Contains Power BI report files. Documentation: Includes project documentation, data dictionary, and analysis methodology.
 
-![Uploading Ekiti Polls.PNG…]()
+![Ekiti Polls](https://github.com/user-attachments/assets/c7993fad-4224-4dab-9ee8-aa7678e5bc5e)
+
