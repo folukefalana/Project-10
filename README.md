@@ -1,4 +1,5 @@
-# TITLE;
+### TITLE;
+
 Ekiti State Electoral Analysis 2014-2022
 
 ### PROJECT OVERVIEW:
@@ -44,3 +45,4 @@ Power BI Desktop SQL for data extraction and transformation
 ### PROJECT STRUCTURE:
 - Data: Contains raw and cleaned data files. Scripts: Includes SQL scripts used for data extraction and transformation. Reports: Contains Power BI report files. Documentation: Includes project documentation, data dictionary, and analysis methodology.
 
+![Uploading Ekiti Polls.PNG…]()
