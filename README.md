@@ -40,7 +40,7 @@ Constructed a user-friendly dashboard presenting KPIs, voting trends, and perfor
 In conclusion, the "Ekiti State Electoral Analysis 2014-2022" project successfully harnessed the capabilities of Power BI to transform raw data into actionable insights. This project not only provided valuable historical performance insights but also paved the way for a more data-informed approach to managing the company's operations.
 
 ### TECHNOLOGIES USED:
-Power BI Desktop SQL for data extraction and transformation
+Excel, Power BI Desktop and SQL for data extraction and transformation
 
 ### PROJECT STRUCTURE:
 - Data: Contains raw and cleaned data files. Scripts: Includes SQL scripts used for data extraction and transformation. Reports: Contains Power BI report files. Documentation: Includes project documentation, data dictionary, and analysis methodology.
